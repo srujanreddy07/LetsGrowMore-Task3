@@ -1,0 +1,23 @@
+.container{
+    display:flex;
+    margin-top:150px;
+}
+.container1{
+    background-color: rgb(166, 42, 96);
+    color:black;
+    width:50%;
+    height:50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.container2{
+    background-color: aquamarine;
+    color:black;
+    width:50%;
+    height:50vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
